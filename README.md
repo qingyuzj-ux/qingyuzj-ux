@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Qingyu
 
-<!--
-**qingyuzj-ux/qingyuzj-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Front-End / UX Developer · GitHub Profile
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on user experience design and front-end development
+- Currently learning full-stack engineering and design systems
+- Passionate about building clean, accessible and usable products
+- Ask me about UI/UX, front-end development and design tools
+
+## Tech Stack
+
+- Frontend: React / Vue / TypeScript / Tailwind CSS
+- Design: Figma / Design System / Prototyping
+- Tools: Git / VS Code / Notion
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qingyuzj-ux&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingyuzj-ux&layout=compact)
+
+## Get in Touch
+
+- GitHub: [@qingyuzj-ux](https://github.com/qingyuzj-ux)
+- Email: your-email@example.com
